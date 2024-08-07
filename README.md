@@ -1,16 +1,20 @@
 ## Hi there 👋
 
+I am Ibnul Abrar Shahriar Seam. I am currently studying in the Computer Science and Engineering discipline at Khulna University.
+
+I have a little knowledge about
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,fortran,java,py,latex,html,vscode&theme=light)](https://skillicons.dev)
+
 <!--
-**Shahriar-Seam/Shahriar-Seam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently trying to learn a lot of things.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with a lot of things.
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anonymous_HF)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Shahriar-Seam&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Seam&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  -->
