@@ -15,5 +15,6 @@ I have a little knowledge about
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Shahriar-Seam&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Shahriar-Seam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Seam&theme=vue-dark&hide_border=true)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Seam&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   
