@@ -6,7 +6,6 @@ I have a little knowledge about
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,fortran,java,py,latex,html,vscode&theme=light)](https://skillicons.dev)
 
-<!--
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently trying to learn a lot of things.
 - 👯 I’m looking to collaborate on nothing.
@@ -17,4 +16,4 @@ I have a little knowledge about
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Shahriar-Seam&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Seam&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  -->
+  
