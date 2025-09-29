@@ -1,14 +1,14 @@
 ## Hey there! 👋 Welcome to my coding universe! 🚀
 
-I'm **Ibnul Abrar Shahriar Seam**, a passionate competitive programmer and CSE student at Khulna University. When I'm not debugging life, you'll find me solving algorithmic puzzles faster than you can say "Time Limit Exceeded"! 💻⚡
+I'm **Ibnul Abrar Shahriar Seam**, a passionate competitive programmer and CSE student at Khulna University.
 
 ### 🎯 What drives me?
-I'm absolutely in love with **competitive programming**! There's something magical about turning coffee into code and watching those green "Accepted" verdicts pop up. My mission? To solve problems elegantly and efficiently while having a blast doing it! 
+I'm absolutely in love with **competitive programming**! There's something magical about turning tea into code and watching those green "Accepted" verdicts pop up. My mission? To solve problems elegantly and efficiently while having a blast doing it! 
 
 ### 🛠️ My Programming Arsenal
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,latex,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,vscode&theme=light)](https://skillicons.dev)
 
-**Languages I speak fluently:** C++, C, Java, Python (and a bit of mathematical LaTeX when feeling fancy!)
+**Languages I speak fluently:** C++, C, Java, Python
 
 ### 🌟 Where you can find me grinding:
 - 🔴 **Codeforces:** [Anonymous_HF](https://codeforces.com/profile/Anonymous_HF) 
@@ -33,10 +33,12 @@ Here are some of my proudest moments in the competitive programming arena:
 
 ### 🔥 Current Status:
 - 🔭 Currently working on: **Mastering advanced algorithms and crushing contest problems!**
-- 🌱 Learning: **Graph algorithms, advanced data structures, and the art of debugging at 3 AM**
-- 👯 Looking to collaborate on: **Competitive programming projects and exciting coding challenges**
+- 🌱 Learning: **Graph algorithms, dynamic programming, and the art of debugging at 3 AM**
 - 🤔 Always seeking: **New problem-solving techniques and fellow CP enthusiasts to learn from**
-- 📫 Reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anonymous_HF)
+- 📫 Reach me: 
+  - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seam230201@ku.ac.bd)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnul-abrar-shahriar-seam-915824169/)
+  - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anonymous_HF)
 
 *"In code we trust, in algorithms we thrive!"* ✨
 
