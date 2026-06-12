@@ -22,14 +22,19 @@ I'm absolutely in love with **competitive programming**! There's something magic
 ### 🏆 Battle Scars (aka Contest Achievements)
 Here are some of my proudest moments in the competitive programming arena:
 
-- 🥈 **6th** in KU SynergyX Programming Contest 2024 (KU_SecondTeam)
-- 🌟 **71st** in ICPC Dhaka Regional 2024 (KU_Second_Team) 
-- 🥉 **9th** in PSTU IT Carnival Contest 2024 (Individual) - *Solo warrior mode!*
-- **104th** in KUET Inter University Programming Contest 2025 (KU_Second_Team)
-- **79th** in UIU Inter University Programming Contest 2025 (KU_Second_Team)
-- **40th** in AUST Inter University Programming Contest 2025 (KU_First_Team)
-- **58th** in DUET Inter University Programming Contest 2025 (KU_Second_Team)
-- **27th** in UU Inter University Programming Contest 2025 (KU_Second_Team)
+- 🏅 **5th** in **NDUB Inter University Programming Contest 2026** (Team: `KUe_Miras_Bobo`) — *5th out of 86 teams*
+- 🎖️ **7th** in **NWU Inter University Programming Contest 2025** (Team: `KUe_Miras_Bobo`) — *7th out of 65 teams*
+- 🥈 **6th** in **Khulna University CSE Fest Programming Contest 2024** (Team: `KU_Second_Team`) — *6th out of 45 teams*
+- 🥉 **9th** in **PSTU IT Carnival Contest 2024** (*Solo Contest*) — *9th out of 101 participants*
+- 🚀 **27th** in **Uttara University Inter University Programming Contest 2025** (Team: `KU_Second_Team`) — *27th out of 120 teams*
+- **40th** in **AUST Inter University Programming Contest 2025** (Team: `KU_First_Team`) — *40th out of 130 teams*
+- **46th** in **CUET Inter University Programming Contest 2025** (Team: `KU_Chittagong_Tour_2025`) — *46th out of 130 teams*
+- **52nd** in **BUET Inter University Programming Contest 2026** (Team: `KUe_Miras_Bobo`) — *52nd out of 110 teams*
+- 🌟 **56th** in **ICPC Dhaka Regional 2025** (Team: `KU_First_Team`) — *56th out of 313 teams*
+- **58th** in **DUET Inter University Programming Contest 2025** (Team: `KU_Second_Team`) — *58th out of 131 teams*
+- 🌟 **71st** in **ICPC Dhaka Regional 2024** (Team: `KU_Second_Team`) — *71st out of 308 teams*
+- **79th** in **UIU Inter University Programming Contest 2025** (Team: `KU_Second_Team`) — *79th out of 157 teams*
+- **104th** in **KUET Inter University Programming Contest 2025** (Team: `KU_Second_Team`) — *104th out of 157 teams*
 
 ### 🔥 Current Status:
 - 🔭 Currently working on: **Mastering advanced algorithms and crushing contest problems!**
